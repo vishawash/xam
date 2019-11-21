@@ -1,3 +1,3 @@
 <?php
-echo "heyo"
+echo "Welcome thios it the deployed app for lab exam"
 ?>
